@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UE Third Party Boilerplate",
+	"Description": "Boilerplate for including a third party library (Steamworks, MySQL, Discord SDK, PS5 SDK, etc.) into Unreal Engine 5 as a plugin.",
+	"Category": "Network & Multiplayer",
+	"CreatedBy": "Midofey Tools",
+	"CreatedByURL": "https://www.github.com/Midofey",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"PlatformAllowList": [
+		"Win64",
+		"Win32",
+		"Linux",
+		"Mac"
+	],
+	"Modules": [
+		{
+			"Name": "UEThirdPartyBoilerplate",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
