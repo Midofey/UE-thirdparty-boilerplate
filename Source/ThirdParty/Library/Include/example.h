@@ -1,0 +1,1 @@
+This is an example header file for your third party library where all of your headers and function definitions are included.
